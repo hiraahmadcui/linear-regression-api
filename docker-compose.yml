@@ -1,6 +1,6 @@
 services:
   linear-regression-api:
-    image: hiracul/linear-regression-api:latest
+    image: hiracui/linear-regression-api:latest
     container_name: linear-regression-api
     ports:
       - "5000:5000"
